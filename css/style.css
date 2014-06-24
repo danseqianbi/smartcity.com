@@ -42,7 +42,7 @@ h1, h2, h3, h4, b {
 
 	margin-left: -17px;
 }
-
+.center{ width:980px; margin:0px auto; } 
 .banner {
 	position: relative;
 	width: 100%;
